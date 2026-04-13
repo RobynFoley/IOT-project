@@ -9,7 +9,7 @@ I have seen it many times, people on their phones while driving. I can understan
  I am planning on making a phone case which will prevent you from looking at your phone while driving, perhaps by giving you a small shock when you try to pick it up...
 
  This way your body will get that fear reseptor or whatever every time you reach for your phone while driving and eventually you can wean yourself off the case...
- 
+ poop
 
  ## Proposed Technologies
  
