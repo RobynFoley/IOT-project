@@ -9,7 +9,8 @@ def phone():
 
     if state == "UNLOCKED":
         print("🚨 TRIGGER ALARM")
-
+    else:
+        print("calm")
     return "OK"
 
 app.run(host="0.0.0.0", port=5000)
